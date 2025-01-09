@@ -13,7 +13,7 @@ Text2Video 是一个将文本转换为视频的工具。它使用 OpenAI 的文�
 
 1. 克隆此仓库到本地：
     ```sh
-    git clone https://github.com/yourusername/text2video.git
+    git clone https://github.com/eleven-day/text2video.git
     ```
 
 2. 进入项目目录并安装依赖：
